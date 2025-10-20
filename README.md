@@ -38,3 +38,10 @@ Command Prompt / Terminal
 --------------------------------------------------------------------------------------------------------------------------------------
 
 This small project helped me understand how real-world programs handle user interactions efficiently.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Author
+
+Your Name – Mayur Santosh Ichake
+Email: mayurichake4@gmail.com
