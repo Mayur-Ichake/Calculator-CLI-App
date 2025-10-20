@@ -9,6 +9,6 @@ It supports basic arithmetic operations — addition, subtraction, multiplicatio
 
 🧰 Tools Used
 
-Python 3.x
-VS Code
+Python 3.13.5       
+VS Code         
 Command Prompt or Terminal
