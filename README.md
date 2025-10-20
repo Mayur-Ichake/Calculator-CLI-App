@@ -29,11 +29,11 @@ Command Prompt / Terminal
 
 🧩 Features
 
-✅ Supports basic arithmetic operations (+, -, *, /)
-✅ Loops until user types exit
-✅ Handles invalid input and division by zero
-✅ Clean and beginner-friendly code
-✅ Fully interactive CLI experience
+✅ Supports basic arithmetic operations (+, -, *, /)                 
+✅ Loops until user types exit                    
+✅ Handles invalid input and division by zero               
+✅ Clean and beginner-friendly code              
+✅ Fully interactive CLI experience                   
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
