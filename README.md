@@ -43,5 +43,5 @@ This small project helped me understand how real-world programs handle user inte
 
 Author
 
-Your Name – Mayur Santosh Ichake                 
+Name – Mayur Santosh Ichake                 
 Email: mayurichake4@gmail.com
