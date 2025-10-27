@@ -1,4 +1,4 @@
-   # 🧮 CLI Calculator App (Elevate Lab – Internship Task 1)
+   # CLI Calculator App (Elevate Lab – Internship Task 1)
 
 🚀 Project Overview
 
