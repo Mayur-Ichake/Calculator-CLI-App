@@ -1,4 +1,4 @@
-   # CLI Calculator App (Elevate Lab – Internship Task 1)
+    # CLI Calculator App (Elevate Lab – Internship Task 1)
 
 🚀 Project Overview
 
@@ -16,7 +16,7 @@ It’s a simple yet essential project that demonstrates the use of core programm
 🎯 Objective
 
 To develop a Python-based CLI Calculator that performs basic mathematical operations — Addition, Subtraction, Multiplication, and Division — and runs continuously until the user decides to exit.
-
+   
 ------------------------------------------------------------------------------------------------------------------------------------
 
 🧰 Tools & Technologies
@@ -37,7 +37,7 @@ Command Prompt / Terminal
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-This small project helped me understand how real-world programs handle user interactions efficiently.
+This small project helped me understand how real-world programs handle user interactions efficiently.                
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
